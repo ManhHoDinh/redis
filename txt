@@ -1,0 +1,2 @@
+docker build -t redis-clone .
+docker run -p 6379:6379 redis-clone
