@@ -1,3 +1,3 @@
-module github.com/codecrafters-io/redis-starter-go
+module redis
 
 go 1.24.0
